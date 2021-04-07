@@ -12,7 +12,6 @@ public class MoneyDoorPlugin implements GamePlugin {
     private int ONE = 1;
     private int TEN = 10;
 
-    // The game framework
     private GameFramework framework = null;
 
     // The amount of money each player has
